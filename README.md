@@ -1,7 +1,7 @@
 # Book Store
 
 ## 📌 Live Demo
-https://vercel.com/chaithrachai2004s-projects/final-project
+https://book-odering.vercel.app/
 
 ## 😎 Features
 
